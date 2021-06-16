@@ -1,4 +1,4 @@
- $Id$
+# $Id$
 
 _host="git.sailfishos.org"
 _project=mer-core
